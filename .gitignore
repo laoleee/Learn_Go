@@ -1,0 +1,6 @@
+./vscode
+Further/.vscode
+*.txt
+*.gif
+
+GoPL/ch1/test.txt
